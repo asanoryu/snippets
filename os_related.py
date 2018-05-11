@@ -47,3 +47,4 @@ linedict = {line[0]: line[1].rstrip("\n") for line in fflist if kword in line[1]
 linedict = sorted(linedict.items(), key = operator.itemgetter(0)) #order by key
 
 print(linedict)
+
