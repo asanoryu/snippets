@@ -1,0 +1,7 @@
+[Core]
+Name = test_plugin
+Module = TestPlugin
+
+[Documentation]
+Description = A test_plugin
+Version = 1.0
